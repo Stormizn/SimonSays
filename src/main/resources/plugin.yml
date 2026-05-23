@@ -1,0 +1,10 @@
+name: SimonSays
+version: ${version}
+main: me.stormizn.simonsays.SimonSays
+api-version: '1.21'
+
+commands:
+  simonsays:
+    description: Play Simon Says!
+    aliases: [ss]
+    usage: /simonsays [start|quit]
